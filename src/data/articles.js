@@ -34,7 +34,7 @@ const myArticles = [
 			"Mentorship",
 			"Professional Growth",
 		],
-		link: "https://walstanb.medium.com/simple-is-better-than-complex-my-first-internship-experience-at-resilient-tech-af3424d7162e",
+		link: "#",
 		link_text: "Read Post",
 	}),
 	() => ({

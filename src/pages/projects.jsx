@@ -50,7 +50,7 @@ const Projects = () => {
 										"Cliked Github",
 										"Github"
 									);
-									window.open("https://github.com/walstanb");
+									window.open("https://github.com/smartgeek27");
 								}}
 							>
 								GitHub &nbsp;

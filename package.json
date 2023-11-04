@@ -1,12 +1,12 @@
 {
-	"homepage": "https://walstanb.github.io",
-	"name": "walstan-portfolio",
+	"homepage": "https://smartgeek27.github.io",
+	"name": "rishi-portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Walstan Baptista",
-		"email": "walstanb@gmail.com",
-		"url": "https://github.com/walstanb"
+		"name": "Rishi Dadhich",
+		"email": "rish7a@gmail.com",
+		"url": "https://github.com/smartgeek27"
 	},
 	"license": "MIT",
 	"private": true,
