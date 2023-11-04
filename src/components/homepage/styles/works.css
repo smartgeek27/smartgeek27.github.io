@@ -1,0 +1,177 @@
+@import "../../../data/styles.css";
+
+.works-body {
+	position: relative;
+	margin-bottom: 20px;
+	top: -10px;
+}
+
+.work {
+	display: flex;
+	padding-bottom: 15px;
+}
+
+.work-header {
+	display: flex;
+}
+
+.work-image {
+	height: 38px;
+	width: 38px;
+	border-radius: 50%;
+	/* outline: 6px solid var(--primary-color); */
+	box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.work-details {
+	display: flex;
+	padding-left: 1%;
+}
+
+.work-title {
+	position: absolute;
+	font-size: 15px;
+	font-weight: 700;
+	color: var(--secondary-color);
+	margin-left: 38px;
+	padding-left: 20px;
+}
+
+.work-subtitle {
+	position: absolute;
+	font-size: 12px;
+	color: var(--secondary-color);
+	margin-top: 8px;
+}
+.work-dept {
+	position: absolute;
+	font-size: 12px;
+	color: var(--secondary-color);
+	margin-top: -8px;
+}
+
+.work-location {
+	position: absolute;
+	width: 100%;
+	font-size: 12px;
+	text-align: right;
+	color: var(--primary-color);
+	margin-top: 8px;
+	right: 10px;
+}
+
+.work-duration {
+	position: absolute;
+	width: 100%;
+	font-size: 12px;
+	text-align: right;
+	color: var(--tertiary-color);
+	margin-top: 8px;
+	right: 10px;
+}
+
+.work-roles {
+	padding-top: 12px;
+	padding-left: 20px;
+}
+
+.work-description ul {
+	list-style-type: disc; /* You can change to 'circle' or 'square' if you prefer different bullet styles */
+	margin-left: 20px;
+	padding-left: 0;
+	padding-top: 25px; /* Remove default padding for the ul element */
+}
+
+.work-description li {
+	font-size: 12px;
+	color: var(--secondary-color);
+	padding-left: 5px; /* Adjust space between bullet point and text */
+}
+
+.works-button {
+	position: absolute;
+	outline: 2px solid var(--outline-color);
+	background-color: var(--context-background-color);
+	color: var(--secondary-color);
+	border: none;
+	padding: 10px 15px;
+	border-radius: 30px;
+	font-size: 14px;
+	cursor: pointer;
+	max-height: 35px;
+	overflow: hidden;
+	/* box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.25); */
+}
+
+.works-button:hover {
+	outline-color: var(--link-color);
+	color: var(--link-color);
+	transition: outline-color 0.3s ease-in-out;
+	transition: color 0.3s ease-in-out;
+}
+
+.access-resume-button {
+	bottom: -25px;
+	right: -10px;
+}
+
+.ghpr-button {
+	bottom: -25px;
+	right: 90px;
+}
+
+/* Existing CSS... */
+
+@media (max-width: 1024px) {
+	.work-image {
+		height: 28px;
+		width: 28px;
+	}
+	.work-title {
+		margin-left: 28px;
+	}
+}
+
+@media (max-width: 450px) {
+	.work-image {
+		height: 25px;
+		width: 25px;
+		box-shadow: unset;
+		outline: 1px solid var(--quaternary-color);
+	}
+	.work-duration {
+		right: -15px;
+	}
+
+	.work {
+		flex-direction: column;
+	}
+
+	.work-details {
+		padding-left: 0;
+	}
+
+	.work-roles {
+		padding-left: 0;
+		padding-top: 25px;
+		margin-left: -28px;
+	}
+
+	.work-title {
+		padding-left: 5px;
+		padding-top: 2px;
+	}
+
+	.works-button {
+		transform: scale(0.9);
+	}
+	.ghpr-button {
+		right: 75px;
+	}
+}
+
+@media (max-width: 320px) {
+	.work-duration {
+		display: none;
+	}
+}
