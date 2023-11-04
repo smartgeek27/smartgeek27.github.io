@@ -4,7 +4,7 @@ import { trackAction } from "../common/analytics";
 import "./styles/contactForm.css";
 
 const FORM_ENDPOINT =
-	"https://public.herotofu.com/v1/60b90230-2c74-11ee-8cff-57ce276e0e2f"; // TODO - update to the correct endpoint
+	"https://public.herotofu.com/v1/b2625b80-7b4e-11ee-b9fd-a16a30a6940d"; // TODO - update to the correct endpoint
 
 const ContactForm = () => {
 	const [status, setStatus] = useState();
