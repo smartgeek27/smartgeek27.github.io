@@ -111,8 +111,8 @@
 
 	.homepage-image-wrapper {
 		transform: rotate(0deg);
-		height: 700px;
-    	width: 1000px;
+		/* height: 700px;
+    	width: 1000px; */
 
 	}
 
@@ -139,16 +139,14 @@
 	}
 
 	.homepage-title {
-		width: 25% !important;
+		width: 75% !important;
 		margin-top: 25px;
-		font-size: small;
-		color: #11c40b !important;
 		order: 2;
 	}
 
 	.homepage-subtitle {
 		width: 100% !important;
-		margin-top: 10px;
+		margin-top: 5px !important;
 		order: 3;
 		min-height: unset;
 		text-align: justify; 
