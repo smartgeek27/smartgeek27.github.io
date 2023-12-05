@@ -21,7 +21,7 @@ const INFO = {
 	about: {
 		title: "My Story",
 		description:"My journey into the world of artificial intelligence began as a graduate student researcher at ASU's Interactive Robotics Lab, I delved in human-robot collaboration and crafted a real-time 3D object tracking system using advanced computer vision and Intel's RGB depth camera. \n Transitioning to a machine learning research assistant role at ASU's Geometric Media Lab, I deepened my knowledge in generative models like GANs and VAEs, creating novel interpolation techniques and a CNN architecture that attracted DARPA funding. My 3D computer vision pursuits led me to an internship at Meda AI in New York, where I enhanced the Neural Radiance Field (NERF) algorithm for improved 3D reconstructions. \n Now at Sabin Lighting Inc. in Chicago as a machine learning engineer, I apply ML in industry automation, developing AI chatbots using OpenAI's retrieval-augmented generation, and devise ML-driven pricing algorithms.",
-		resume: "https://drive.google.com/file/d/1e_kTnn73CXof9wK78UzdMGdnw9eA0iNz/view?usp=sharing",
+		resume: "https://drive.google.com/file/d/1wT1lf_EWLBrx4HzA5Ybqw_bWQAMAFhXd/view?usp=drive_link",
 	},
 
 	projects: {
