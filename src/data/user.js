@@ -30,7 +30,7 @@ const INFO = {
 			"Throughout my research and industrial experience in Artificial Intelligence, I've got myself engaged in a variety of projects and research endeavors, each adding depth to my understanding and skill set. This section offers a glimpse into some of these milestones. If any align with your interests, I'd be pleased to discuss potential collaborations. If you have a project in mind, I'm open to exploring how we might bring it to fruition together.",
 		project_list: [
 			{
-				title: "OpenAI LLM-Powered Chatbot with Retrieval-Augmented Generation",
+				title: "OpenAI LLM-Powered Chatbot using Retrieval-Augmented Generation",
 				description:
 					"Developed and deployed Intelligent AI chatbot using Retrieval-Augmented Generation capabilities of OpenAI's LLM for my current company. Chatbot streamlines employee data retrieval, decodes company-specific part numbers, and proficiently answers company-related queries, enhancing internal communication efficiency.",
 				image: "https://github.com/smartgeek27/Intelligent-Industrial-AI-chatbot/blob/main/chatbot_video.gif?raw=true",
