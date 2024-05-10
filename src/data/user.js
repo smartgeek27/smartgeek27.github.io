@@ -149,6 +149,22 @@ const INFO = {
 				},
 			],
 		},
+		
+		{
+			company_logo:
+				"https://images.squarespace-cdn.com/content/v1/61df533c57361a366db19973/96c5fcb6-f710-47d7-bb19-b6d52f844abc/SABIN_SOCIAL_ICON.jpg",
+			company: "Sabin Lighting Inc",
+			location:"Chicago, IL",
+			roles: [
+				{
+					dept:"AI Development",
+					role: "Machine Learning Engineer",
+					duration: "May 2023 - Present",
+					description:
+						"Developed intelligent AI chatbot using RAG and OpenAI LLM's streamlining employee data access.\n Integrated ML price prediction model into chatbot for custom products. \n Enhanced ERP configuration tools and features optimising business operations.",
+				},
+			],
+		},
 		{
 			company_logo:
 				"https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1519855922217?e=1706745600&v=beta&t=UoiTto0Lslf5M57Sghz_WtNpiXZ2dSl7FFcFZz8z6ic",
