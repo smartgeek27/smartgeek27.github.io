@@ -14,7 +14,7 @@ const INFO = {
 		name: "Rishi Dadhich ",
 		title: "Machine Learning Engineer and Data Scientist",
 		description:
-			"Hello! I'm Rishi Dadhich. With more than 1.5 years of research and industrial experience in Artificial Intelligence and Data Science, I currently serve as a Machine Learning Engineer at Sabin Lighting Inc, Chicago. Here, I am working in utilizing OpenAI's retrieval-augmented generation for crafting intelligent AI chatbots and building price prediction machine learning models. \n  Beyond this, my background includes a deep passion for computer vision, tackling real-world ML challenges, exploring 3D reconstruction, image segmentation, and advanced AI model training. From collaborating with robots, mastering ML pipelines, to innovations with transformers, autoencoders and diffusion models. My mantra? With a proactive mindset and the right tools at hand, we can craft the extraordinary. Come, let's transform ideas into reality!.",
+			"Hello! I'm Rishi Dadhich with more than 2 yrs research and industrial experience in Generative AI and Machine Learning , I am currently serve as a Senior Engineer (Gen AI & ML) at Gamma Technologies, I focus on developing and integrating generative AI applications using large language models. I manage the entire lifecycle of these models, ensuring accuracy and efficiency from data acquisition to deployment. \n Previously, I was a Machine Learning Engineer at Sabin, Inc., where I developed AI solutions like chatbot and estimation models that streamlined business operations and enhanced data management. Beyond this, my background includes a deep passion for computer vision, tackling real-world ML challenges, exploring 3D reconstruction, image segmentation, and advanced AI model training. From collaborating with robots, mastering ML pipelines, to innovations with transformers, autoencoders, and diffusion models. My mantra? With a proactive mindset and the right tools at hand, we can craft the extraordinary. Come, let's transform ideas into reality!.",
 		// "As a software engineer, I strive to deliver software solutions that are efficient, scalable, and reliable. I am enthusiastic about embracing new challenges and technologies. When I'm not writing code, I enjoy keeping up with the latest advances in AI. I am skilled in working with cutting-edge tools, from databases to the cloud, to drive innovation. When I'm not working, I like to hike, game, and explore new places. I am constantly seeking new challenges to improve my skills as an individual.",
 	},
 
@@ -136,16 +136,16 @@ const INFO = {
 	experience: [
 		{
 			company_logo:
-				"https://images.squarespace-cdn.com/content/v1/61df533c57361a366db19973/96c5fcb6-f710-47d7-bb19-b6d52f844abc/SABIN_SOCIAL_ICON.jpg",
-			company: "Sabin Lighting Inc",
+				"https://media.licdn.com/dms/image/C4E0BAQFrix1WwH0KvQ/company-logo_200_200/0/1640201971362/gamma_technologies_inc_logo?e=1723680000&v=beta&t=R5fN4eOIN6MwgQRALxMX4CD8BDBsQaDdFKCJp8DvCxo",
+			company: "Gamma Technologies",
 			location:"Chicago, IL",
 			roles: [
 				{
-					dept:"AI Development",
-					role: "Machine Learning Engineer",
-					duration: "May 2023 - Present",
+					dept:"Neuro Applications ",
+					role: "Senior Engineer (Gen AI & ML)",
+					duration: "Apr 2024  - Present",
 					description:
-						"Developed intelligent AI chatbot using RAG and OpenAI LLM's streamlining employee data access.\n Integrated ML price prediction model into chatbot for custom products. \n Enhanced ERP configuration tools and features optimising business operations.",
+						" leading the development and integration of generative AI applications, ensuring robust and intuitive user interfaces enhancing GT Suite software capabilities.\n  Managing the full lifecycle of LLM models from data acquisition to training, validation, and testing, implementing best practices to ensure model accuracy and efficiency.",
 				},
 			],
 		},
@@ -159,7 +159,7 @@ const INFO = {
 				{
 					dept:"AI Development",
 					role: "Machine Learning Engineer",
-					duration: "May 2023 - Present",
+					duration: "May 2023 - March 2024",
 					description:
 						"Developed intelligent AI chatbot using RAG and OpenAI LLM's streamlining employee data access.\n Integrated ML price prediction model into chatbot for custom products. \n Enhanced ERP configuration tools and features optimising business operations.",
 				},
@@ -167,7 +167,7 @@ const INFO = {
 		},
 		{
 			company_logo:
-				"https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1519855922217?e=1706745600&v=beta&t=UoiTto0Lslf5M57Sghz_WtNpiXZ2dSl7FFcFZz8z6ic",
+				"https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_200_200/0/1631309406468?e=1723680000&v=beta&t=9kv_PzaPf3Ts3D-Nb_JudCiFyrGsNANIsHXrQ9V2lnY",
 			company: "Arizona State University",
 			location:"Tempe, AZ",
 			roles: [
