@@ -17,7 +17,7 @@ const myArticles = [
 			"Hyperparameter Tuning",
 			"Image Manipulation"],
 
-		link: "https://github.com/smartgeek27/My_Research/blob/main/Orthogonality_manuscript.PDF",
+		link: "https://www.frontiersin.org/articles/10.3389/fcomp.2024.1274779/full",
 		
 		link_text: "Read Publication",
 	}),
